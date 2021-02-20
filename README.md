@@ -1,3 +1,6 @@
+# This Script Fork From 
+[phistrom/datetime-routeros](https://github.com/phistrom/datetime-routeros)
+
 # Datetime for RouterOS
 This is a script that creates a global function called `datetime`. You can use the function to get the current day of the week, the month as an integer, the timezone offset, and much more. It's all the basic date components you expect from most programming languages.
 
